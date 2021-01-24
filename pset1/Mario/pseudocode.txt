@@ -1,0 +1,7 @@
+What to do for the problem
+
+1. Prompt use for the height of the pyramid you want to generate
+
+2. Check if the value given is appropiate meaning it is between 1 and 8.
+
+3. Print out a pyramid with height h, with line 1 having ( h - 1 ) spaces, and 1 #, and then line 2 having ( h - 2 ) spaces, 2 #s, and so forth.
